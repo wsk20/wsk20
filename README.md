@@ -5,9 +5,9 @@
 A bit about me:
 
 - 💻 Backend developer
-- 🌟 Proud of my past. Focused on my future.
-- 🎯 Focused on Digital Countryside transformation
+- 🌟 May my future live up to my past.
+- 🎯 Focused on Digital Countryside.
 - 📫 Best contact: email.
 - ☕ Minimalist, early bird, and sometimes a perfectionist.
 
-"Code is poetry — elegant, concise, and expressive."
+"Code is poetry — elegant, concise, expressive, and telling a story."
